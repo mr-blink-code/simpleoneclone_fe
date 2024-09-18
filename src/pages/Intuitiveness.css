@@ -1,0 +1,42 @@
+.intuitiveness{
+    background-color: rgb(24, 22, 22) ;
+    height: 100vh;
+    padding-top: 10vh;
+}
+.card-sub-text{
+    color : #5e5e5e;
+    font-size: 20px;
+    line-height :20px;
+    font-weight: 500;
+}
+.card-row{ 
+    margin-top: 10vh!important;
+    display:flex;
+    overflow-x: scroll;
+}
+.card-style{
+    
+    height:50vh !important;
+    border: none !important;
+    border-radius: 0 !important;
+    }
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+.card-style-img{
+    border-radius: 0px !important;
+    height: 30vh;
+    width:20vh;
+}
+
+.intuitiveness_btn{
+    position: relative !important;
+    margin-top: 24vh;
+    margin-left: 55vw;
+    opacity: 0.8;
+    background-color: black!important;
+    border: none !important;
+    z-index: 5 !important;
+}

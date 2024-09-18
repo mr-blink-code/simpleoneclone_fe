@@ -1,0 +1,14 @@
+select{
+    background-color:#3c3c3c;
+    border:none;
+    color:white;
+    margin-left: 0px;
+    width: 250px !important;
+    
+}
+select:focus,select:active{
+    outline:none;
+}
+.dropdown{
+    margin-left: -1rem;
+}

@@ -1,0 +1,33 @@
+
+.variant_name{
+    color: white;
+    font-weight: 700;
+}
+
+.color_header{
+    font-weight: 600;
+    font-size: 130px;
+    line-height: 90%;
+    text-align: right;
+    text-transform: uppercase;
+    opacity: .03;
+    color: #fff;
+}
+.break_line{
+    width: 124px!important;
+    height: 2px;
+    margin-top: 5px;
+    margin-right: -12px !important;
+}
+.preload-images {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+  
+  .preload-images img {
+    display: none;
+  }

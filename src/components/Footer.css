@@ -1,0 +1,14 @@
+.footer-style{
+    background-color: #3c3c3c;
+    padding:0 7% 0 7%!important;
+  }
+  .divider {
+    height: 1px;
+    background: #fff;
+    margin-top: 2rem;
+  }
+ .row-h{
+    list-style-type: none;
+    line-height: 1.2;
+    margin-left: -24px !important;
+ }

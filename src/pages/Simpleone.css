@@ -1,0 +1,64 @@
+.simpleone {
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 100vh;
+    background-image: url(https://se-prod-webapp-media.s3.amazonaws.com/assets/landingPage/sec2-d-bg.png);
+    background-position: 30%;
+    background-size: cover;
+}
+.line{
+    background-color: white;
+    width:25px!important;
+    height: 2px;
+    margin-top: 15px;
+}
+
+.simpleone_line{
+    line-height: 15px;
+}
+#tag-1{
+    position: absolute!important;
+    margin-top: 20vh;
+    margin-left: 8vw;
+}
+#tag-2{
+    position: absolute!important;
+    margin-top: -40vh;
+    margin-left: 8vw;
+}
+#tag-3{
+    position: absolute!important;
+    margin-top: -40vh;
+    margin-left: 8vw;
+}
+.tech-l {
+    height: 50px;
+    border-right: 2px solid rgba(77, 76, 76, 0.568) !important;
+    margin-left: -6px;
+}
+.simple_one{
+    margin-left: 25px!important;
+    font-size: 64px;
+    color: white;
+    font-weight: 600;
+    
+}
+.simple_km{
+    font-size: 25px;
+    color: white;
+    padding-top:28px ;
+}
+.simple_range{
+    
+    color: white;
+    font-size:18px;
+    margin-left:46px!important;
+    line-height: 2px;
+}
+.simple_sec{
+    color:white;
+    font-size:48px;
+    font-weight:600;
+    margin-bottom: -10px!important;
+    margin-left: -22px;
+}
